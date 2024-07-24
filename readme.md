@@ -11,3 +11,6 @@ Recipe sharing platform
 ### run npm run build
 
 ### run npm run start
+
+##note
+i have add all the enviroment variable on nodemon.json
