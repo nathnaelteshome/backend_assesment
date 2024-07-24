@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_USER": "john00710wick",
+        "MONGO_PASSWORD": "lRKOUQAg1a5nN3ke",
+        "MONGO_DB": "recipe_sharing",
+        "SECRET_KEY": "secret",
+        "JWT_SEC": "jwttoken"
+    }
+}
