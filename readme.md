@@ -6,6 +6,8 @@ Recipe sharing platform
 
 ## Installation
 
-run npm i
-run npm run build
-run npm run start
+### run npm i
+
+### run npm run build
+
+### run npm run start
